@@ -1,9 +1,10 @@
-# Construindo-seu-Primeiro-Projeto-Logico-de-Banco-de-Dados
+# Construindo seu Primeiro Projeto Logico de Banco de Dados
 
-Descrição do Desafio
-Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
+## Descrição do Desafio
 
-Assim como demonstrado durante o desafio, realize a criação do Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Especifique ainda queries mais complexas dos que apresentadas durante a explicação do desafio. Sendo assim, crie queries SQL com as cláusulas abaixo:
+    Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
+
+    Assim como demonstrado durante o desafio, realize a criação do Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Especifique ainda queries mais complexas dos que apresentadas durante a explicação do desafio. Sendo assim, crie queries SQL com as cláusulas abaixo:
 
 Recuperações simples com SELECT Statement
 Filtros com WHERE Statement
@@ -18,7 +19,8 @@ Elabore perguntas que podem ser respondidas pelas consultas;
 As cláusulas podem estar presentes em mais de uma query;
 O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
-Objetivo:
+## Objetivo
+
 [Relembrando] Aplique o mapeamento para o  cenário:
 
 “Refine o modelo apresentado acrescentando os seguintes pontos”
