@@ -40,6 +40,7 @@ Este projeto foi desenvolvido com foco em:
 ## 📁 Estrutura
 
 ```
+
 ├── diagrams/
 │ └── modelo-ER.png
 ├── scripts/
@@ -47,8 +48,8 @@ Este projeto foi desenvolvido com foco em:
 ├── docs/
 │ └── notas_de_modelagem.md
 ├── README.md
-```
 
+```
 
 ---
 
@@ -73,4 +74,4 @@ Legenda usada neste repositório:
 **Carlos Eduardo**  
 TI | Banco de Dados | Modelagem de Dados | SQL
 
-🔗 https://github.com/carloseduardonit
+🔗 [https://github.com/carloseduardonit](https://github.com/carloseduardonit)
